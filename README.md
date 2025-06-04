@@ -1,10 +1,8 @@
 <div align="center">
 
 ![Banner](https://www.icegif.com/wp-content/uploads/2023/07/icegif-490.gif)
-
 <br/>
-
-# 👋 Hi
+ 👋 Hi
 
 Welcome to my GitHub profile! I’m a passionate CS student who loves building creative and impactful projects. I enjoy learning new things, solving problems, and collaborating with other software developers.
 
