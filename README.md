@@ -1,20 +1,12 @@
 <div align="center">
 
-![Banner](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1500&q=80)
+![Banner](https://cdn.pixabay.com/animation/2022/10/19/02/45/02-45-03-592_512.gif)
 
 <br/>
 
-<img 
-  src="https://avatars.githubusercontent.com/u/your-github-user-id?v=4" 
-  alt="Your Name" 
-  width="150" 
-  height="150" 
-  style="border-radius: 50%; border: 3px solid #4a90e2;" 
-/>
-
 # 👋 Hi
 
-Welcome to my GitHub profile! I’m a passionate developer who loves building creative and impactful projects. I enjoy learning new technologies, solving problems, and collaborating with other developers.
+Welcome to my GitHub profile! I’m a passionate cs student who loves building creative and impactful projects. I enjoy learning new topics, solving problems, and collaborating with other software developers.
 
 <br/>
 
